@@ -20,4 +20,4 @@
 # 연락처 
 `디스코드 : 화이트홀미만잡#8210`
 
-`텔레그램 : https://t.me/whitehole0906
+`텔레그램 : https://t.me/whitehole0906`
