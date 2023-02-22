@@ -18,6 +18,7 @@
 
 - json 계정 저장 형식
 
+- ![image](https://user-images.githubusercontent.com/101702658/220734189-09dbd7cb-d8da-406a-ab2f-bbe0d223edbc.png)
 
 # 업데이트
 
