@@ -143,7 +143,6 @@ def isStartGen():
         acc["EMAIL"] = email
         acc["PASSWORD"] = PASSWORD
         acc["INSTA_ID"] = name_
-        acc["INSTA_NAME"] = "화_이_트_홀"
         account["accounts"].append(acc)
         with open('./acc_gen/Account.json', 'w',encoding="UTF-8") as w:
             w.write(json.dumps(account, indent=4))
