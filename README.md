@@ -11,7 +11,13 @@
 
 
 + 추가적으로 언제든지 막힐수 있는 프로그램 이기에 패치 본이 필요 하시다면 개인 적으로 연락 해 주세요.
-- ![s](https://user-images.githubusercontent.com/101702658/220519398-239e613e-346f-4726-a69a-ef0e8c17d67c.png)
+
+- 계정 저장 형식은 JSON 형식으로 저장 됩니다 (아래 사진 참고)
+
+- ![result](https://user-images.githubusercontent.com/101702658/220733903-f029fe20-eda9-4af5-9e77-021c21a566d1.png)
+
+- json 계정 저장 형식
+
 
 # 업데이트
 
