@@ -1,0 +1,9 @@
+{
+    "accounts": [
+        {
+            "EMAIL": "이메일",
+            "PASSWORD": "비번",
+            "INSTA_ID": "인스타아이디"
+        }
+    ]
+}
